@@ -1,0 +1,7 @@
+12/16/2023
+Ideas:
+  - Need to look at Apple Music and Spotify API's
+  - Need to decide on a language and create a mockup
+  - Probably want to use Copilot to learn it.
+  - I'm thinking of this as a background app that would allow you to open up a shared playlist in the opposing streaming service
+  - Do I want to look up to see if this exists? I think I'll take a stab at it anyways
