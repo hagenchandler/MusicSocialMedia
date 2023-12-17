@@ -1,7 +1,16 @@
 12/16/2023
 Ideas:
   - Need to look at Apple Music and Spotify API's
-  - Need to decide on a language and create a mockup
-  - Probably want to use Copilot to learn it.
-  - I'm thinking of this as a background app that would allow you to open up a shared playlist in the opposing streaming service
-  - Do I want to look up to see if this exists? I think I'll take a stab at it anyways
+    * https://developer.apple.com/documentation/applemusicapi/
+    * https://developer.spotify.com/documentation/web-api
+  - Need to decide on a language and create a mockup.
+    * I would like for it to not have a ui beyond an app icon that you click on that generates the playlist in the other streaming service.
+    * Alternatively I would I could make it a versioning type system where there is a playlist that can be updated by other people.
+  - Probably want to use Copilot to learn the technology.
+
+  - Going with the name PlaylistVersioning for the project name.
+  - ReactNative App in VSCode
+    * I don't know if I can create an iPhone app on a windows machine which is a problem I need to figure out.
+
+
+Spent most of the time today trying to figure out a path forward and creating Spotify and Apple Music developer accounts.
