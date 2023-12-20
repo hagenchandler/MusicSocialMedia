@@ -48,3 +48,9 @@ Spent most of the time today trying to figure out a path forward and creating Sp
   I would like to see my friends playlists and be able to sync them across platforms.
   What if one of the platforms does not have the music from another?
   I know that Spotify has a shared playlist function where more than one person can update a playlist. Would that be possible?
+
+12/19/2023
+
+  Worked on the Backend server and got the Spotify developer account.
+
+  Need to remember how gitignore works with node libraries.
