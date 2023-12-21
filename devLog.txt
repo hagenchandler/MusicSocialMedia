@@ -14,3 +14,43 @@ Ideas:
 
 
 Spent most of the time today trying to figure out a path forward and creating Spotify and Apple Music developer accounts.
+
+
+12/17/2023
+
+  The app idea so far for iteration 1:
+    1. Figure out the API's for the respective Spotify and Apple Music
+          * Create developer accounts
+    2. Set up the Backend Server
+          * Create the server to handle authentication with the APIs. Probably use Node.js or Python to manage synchronization logic.
+          * This server will store playlist data and handle updates to the playlist
+    3. Implement OAuth
+          * Implement Oauth for Spotify and Apple Music
+    4. Create React Native App
+          * Use Expo or React Native CLI
+    5. User Authentication
+          * Implement user authentication in the React Native App
+    6. Display Playlists
+          * Retrieve and display user playlists from Spotify and Apple Music in the React App
+    7. Sync Playlists
+          * When a user adds a song to a playlist in the app, send a request to the server
+          * The server then updates the Spotify and Apple Music playlist
+    8. Real-Time Updates
+          * I am unsure if the playlist will update automatically when a song is added. Need to check at this stage if that happens or not.
+    9. Handle Rate limits
+          * Implement error handling as to not exceed the rate limits of either.
+    10. Testing
+          * Good idea to use a testing framework of some kind here. Make sure synching and real-time updates
+    11. Deploy Server
+  End iteration 1
+  
+  I would like to update it from here to be more social media like.
+  I would like to see my friends playlists and be able to sync them across platforms.
+  What if one of the platforms does not have the music from another?
+  I know that Spotify has a shared playlist function where more than one person can update a playlist. Would that be possible?
+
+12/19/2023
+
+  Worked on the Backend server and got the Spotify developer account.
+
+  Need to remember how gitignore works with node libraries.
