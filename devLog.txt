@@ -54,3 +54,8 @@ Spent most of the time today trying to figure out a path forward and creating Sp
   Worked on the Backend server and got the Spotify developer account.
 
   Need to remember how gitignore works with node libraries.
+
+
+12/22/2023
+
+  Spent a lot of the last 2 days driving around so not much time to code. Made a simple UML to try to visualize what I'm trying to do.
