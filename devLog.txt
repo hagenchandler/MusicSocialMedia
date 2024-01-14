@@ -59,3 +59,7 @@ Spent most of the time today trying to figure out a path forward and creating Sp
 12/22/2023
 
   Spent a lot of the last 2 days driving around so not much time to code. Made a simple UML to try to visualize what I'm trying to do.
+
+1/13/2024
+
+  I haven't forgotten about this, just a lot going on in my life at the moment. Developing for apple music seems like it's going to be a challenge without an Apple computer.
